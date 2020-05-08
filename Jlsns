@@ -4,3 +4,6 @@ allprojects {
 		maven { url 'https://jitpack.io' }
 	}
 }
+dependencies {
+    implementation 'com.github.owl-93:DeterminateProgressView:v1.0'
+}
